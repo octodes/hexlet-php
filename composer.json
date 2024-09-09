@@ -9,13 +9,10 @@
     ],
     "require": {
         "illuminate/collections": "^10.48"
-<<<<<<< HEAD
-=======
     },
     "autoload": {
         "files": [
             "src/Runner.php"
         ]
->>>>>>> cb2b42c (init dependencies & runner)
     }
 }
