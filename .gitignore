@@ -42,3 +42,7 @@ Homestead.json
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Composer
+composer.phar
+/vendor/
