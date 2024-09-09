@@ -3,9 +3,11 @@
     "description": "test php project",
     "authors": [
         {
-            "name": "octodes",
+            "name": "octode",
             "email": "octode@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^10.48"
+    }
 }
