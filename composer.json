@@ -1,0 +1,11 @@
+{
+    "name": "octode/hexlet-php",
+    "description": "test php project",
+    "authors": [
+        {
+            "name": "octodes",
+            "email": "octode@gmail.com"
+        }
+    ],
+    "require": {}
+}
